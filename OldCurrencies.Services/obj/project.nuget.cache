@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oOHrHiRy//WaRe1PAdhM1q0+QJn+epKbzMdu9jtM2ro9c/t12pBw5lsVvRv8Dbem+v3LaT92mg0TAIZIVllSAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Services\\OldCurrencies.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

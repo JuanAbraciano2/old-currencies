@@ -1,0 +1,12 @@
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\bin\Debug\netstandard2.0\OldCurrencies.Services.deps.json
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\bin\Debug\netstandard2.0\OldCurrencies.Services.dll
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\bin\Debug\netstandard2.0\OldCurrencies.Services.pdb
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\bin\Debug\netstandard2.0\OldCurrencies.Core.dll
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\bin\Debug\netstandard2.0\OldCurrencies.Core.pdb
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.AssemblyInfo.cs
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.csproj.CopyComplete
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.dll
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Services\obj\Debug\netstandard2.0\OldCurrencies.Services.pdb

@@ -1,0 +1,9 @@
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\bin\Debug\netstandard2.0\OldCurrencies.Core.deps.json
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\bin\Debug\netstandard2.0\OldCurrencies.Core.dll
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\bin\Debug\netstandard2.0\OldCurrencies.Core.pdb
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\obj\Debug\netstandard2.0\OldCurrencies.Core.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\obj\Debug\netstandard2.0\OldCurrencies.Core.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\obj\Debug\netstandard2.0\OldCurrencies.Core.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\obj\Debug\netstandard2.0\OldCurrencies.Core.AssemblyInfo.cs
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\obj\Debug\netstandard2.0\OldCurrencies.Core.dll
+C:\Users\Juan\source\repos\OldCurrencies\OldCurrencies.Core\obj\Debug\netstandard2.0\OldCurrencies.Core.pdb

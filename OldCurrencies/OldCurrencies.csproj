@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OldCurrencies.Core\OldCurrencies.Core.csproj" />
+    <ProjectReference Include="..\OldCurrencies.Infraestructure\OldCurrencies.Infraestructure.csproj" />
+    <ProjectReference Include="..\OldCurrencies.Services\OldCurrencies.Services.csproj" />
+  </ItemGroup>
+
+</Project>

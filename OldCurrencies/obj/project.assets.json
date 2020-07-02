@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OldCurrencies.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/OldCurrencies.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OldCurrencies.Core.dll": {}
+        }
+      },
+      "OldCurrencies.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "OldCurrencies.Core": "1.0.0",
+          "OldCurrencies.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OldCurrencies.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OldCurrencies.Infraestructure.dll": {}
+        }
+      },
+      "OldCurrencies.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "OldCurrencies.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OldCurrencies.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OldCurrencies.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OldCurrencies.Core/1.0.0": {
+      "type": "project",
+      "path": "../OldCurrencies.Core/OldCurrencies.Core.csproj",
+      "msbuildProject": "../OldCurrencies.Core/OldCurrencies.Core.csproj"
+    },
+    "OldCurrencies.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../OldCurrencies.Infraestructure/OldCurrencies.Infraestructure.csproj",
+      "msbuildProject": "../OldCurrencies.Infraestructure/OldCurrencies.Infraestructure.csproj"
+    },
+    "OldCurrencies.Services/1.0.0": {
+      "type": "project",
+      "path": "../OldCurrencies.Services/OldCurrencies.Services.csproj",
+      "msbuildProject": "../OldCurrencies.Services/OldCurrencies.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "OldCurrencies.Core >= 1.0.0",
+      "OldCurrencies.Infraestructure >= 1.0.0",
+      "OldCurrencies.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Juan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies\\OldCurrencies.csproj",
+      "projectName": "OldCurrencies",
+      "projectPath": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies\\OldCurrencies.csproj",
+      "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Core\\OldCurrencies.Core.csproj": {
+              "projectPath": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Core\\OldCurrencies.Core.csproj"
+            },
+            "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Infraestructure\\OldCurrencies.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Infraestructure\\OldCurrencies.Infraestructure.csproj"
+            },
+            "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Services\\OldCurrencies.Services.csproj": {
+              "projectPath": "C:\\Users\\Juan\\source\\repos\\OldCurrencies\\OldCurrencies.Services\\OldCurrencies.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
